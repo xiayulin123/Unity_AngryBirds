@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{16FFED82-1857-D06C-5CBF-8413655BFF13}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bird.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Bird.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="2f7e9ec2-250a-4d1e-9a6d-d65a64f4d02c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
