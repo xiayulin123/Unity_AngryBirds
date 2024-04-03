@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{16FFED82-1857-D06C-5CBF-8413655BFF13}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Bird.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/startButton.cs">
     <Files>
-      <File FileName="Assets/Scripts/Bird.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Bird.cs" Line="55" Column="13" />
+      <File FileName="Assets/Scripts/Monster.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/startButton.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
